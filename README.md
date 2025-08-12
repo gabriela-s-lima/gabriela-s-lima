@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- Banner ou frase de boas-vindas -->
+<h1 align="center">✨ Olá, eu sou a Gabriela Lima! | Hi, I'm Gabriela Lima! ✨</h1>
 
-<!--
-**gabriela-s-lima/gabriela-s-lima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎯 Desenvolvedora apaixonada por tecnologia, design e soluções criativas. Developer passionate about technology, design, and creative solutions<br>
+  🚀 Sempre estudando e aprendendo novas tecnologias! Always studing and learning news technologies!
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌎 Sobre mim | About me
+
+- 📚 Cursando pós-graduação em **Inteligência Artificial e Aprendizado de Máquinas**. Pursuing a postgraduate degree in **Artificial Intelligence and Machine Learning**
+- 🎨 Fundadora e idealizadora da empresa **MirageTech**. Founder and creator of **MirageTech**
+- 🧠 Entusiasta de IA e computação quântica. AI and quantum computing enthusiast.
+- 🚀 Viciada em música e bons desafios de programação. Addicted to music and exciting programming challenges.
+
+---
+
+## 🛠 Tecnologias | Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+## 🚀 Projeto em destaque | Featured Project
+
+### 💅 [Site do Meu Studio de Alongamentos de Unhas](https://github.com/gabriela-s-lima/studio_gabilima)
+Um site moderno e responsivo para agendamento de serviços de alongamento de unhas, desenvolvido com HTML, CSS e JavaScript. 
+A modern and responsive website for booking nail extension services, developed with HTML, CSS, and JavaScript.
+
+---
+
+## 📈 Estatísticas | Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 📊 Contadores | Counters
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=blue&style=flat" alt="Visualizações de perfil" />
+  <img src="https://img.shields.io/github/repos/SEU_USUARIO?label=Repositórios&color=green&style=flat" alt="Total de Repositórios" />
+</p>
+
+---
+
+## 🌐 Conecte-se comigo | Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriela-s-lima1990/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+   <a href="https://instagram.com/_miragetech" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+✨ *"Sempre pronta para encarar novos desafios!"* 🚀  
+*"Always ready to take on new challenges!"*  
