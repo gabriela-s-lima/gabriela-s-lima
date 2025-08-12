@@ -1,9 +1,10 @@
 <!-- Banner ou frase de boas-vindas -->
-<h1 align="center">✨ Olá, eu sou a Gabriela Lima! | Hi, I'm Gabriela Lima! ✨</h1>
+<h1 align="center">✨ Olá, eu sou a Gabriela Lima!
+  Hi, I'm Gabriela Lima! ✨</h1>
 
 <p align="center">
-  🎯 Desenvolvedora apaixonada por tecnologia, design e soluções criativas. Developer passionate about technology, design, and creative solutions<br>
-  🚀 Sempre estudando e aprendendo novas tecnologias! Always studing and learning news technologies!
+  🎯 Sou apaixonada por tecnologia, curiosa e dedicada, estou sempre em busca de conhecimento, motivada pelo desejo de aprender mais. <br>
+  🚀 I am passionate about technology, curious and dedicated, always seeking knowledge driven by the desire to learn more.
 </p>
 
 ---
