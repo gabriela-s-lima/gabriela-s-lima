@@ -52,7 +52,7 @@ A modern and responsive website for booking nail extension services, developed w
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabriela-s-lima&label=Visualizações&color=blue&style=flat" alt="Visualizações de perfil" />
-  <img src="https://img.shields.io/github/repos/gabriela-s-lima?label=Repositórios&color=green&style=flat" alt="Total de Repositórios" />
+  <img src="https://img.shields.io/github/repos/gabriela-s-lima&label=Repositórios&color=green&style=flat" alt="Total de Repositórios" />
 </p>
 
 ---
