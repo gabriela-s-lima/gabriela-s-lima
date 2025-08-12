@@ -41,8 +41,8 @@ A modern and responsive website for booking nail extension services, developed w
 ## 📈 Estatísticas | Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriela-s-lima&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriela-s-lima&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -50,8 +50,8 @@ A modern and responsive website for booking nail extension services, developed w
 ## 📊 Contadores | Counters
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações&color=blue&style=flat" alt="Visualizações de perfil" />
-  <img src="https://img.shields.io/github/repos/SEU_USUARIO?label=Repositórios&color=green&style=flat" alt="Total de Repositórios" />
+  <img src="https://komarev.com/ghpvc/?username=gabriela-s-lima&label=Visualizações&color=blue&style=flat" alt="Visualizações de perfil" />
+  <img src="https://img.shields.io/github/repos/gabriela-s-lima?label=Repositórios&color=green&style=flat" alt="Total de Repositórios" />
 </p>
 
 ---
