@@ -44,15 +44,9 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </p>
-
----
-
-## 🚀 Projeto em destaque | Featured Project
-
-### 💅 [Site do Meu Studio de Alongamentos de Unhas](https://github.com/gabriela-s-lima/studio_gabilima)
-Um site moderno e responsivo para agendamento de serviços de alongamento de unhas, desenvolvido com HTML, CSS e JavaScript. 
-A modern and responsive website for booking nail extension services, developed with HTML, CSS, and JavaScript.
 
 ---
 
