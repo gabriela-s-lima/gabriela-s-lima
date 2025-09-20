@@ -24,7 +24,7 @@
 ## 🌎 Sobre mim | About me
 
 - 📚 Cursando pós-graduação em **Inteligência Artificial e Aprendizado de Máquinas**. Pursuing a postgraduate degree in **Artificial Intelligence and Machine Learning**
-- 🎨 Fundadora e idealizadora da empresa **MirageTech**. Founder and creator of **MirageTech**
+- 🎨 Fundadora e idealizadora da empresa **Essneza Digital**. Founder and creator of **Essenza Digital**
 - 🧠 Entusiasta de IA e computação quântica. AI and quantum computing enthusiast.
 - 🚀 Viciada em música e bons desafios de programação. Addicted to music and exciting programming challenges.
 
