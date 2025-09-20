@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/_miragetech" target="_blank">
+  <a href="https://instagram.com/_essenzadigital" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/gabriela-s-lima1990" target="_blank">
